@@ -22,3 +22,5 @@
  
      mv arquivo.pdf.xoj.gz arquivo.pdf.xoj
  
+ 
+ FAZER MAPEAMENRO COM ZOTERO
